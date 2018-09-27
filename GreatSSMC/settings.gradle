@@ -1,2 +1,4 @@
 rootProject.name = 'GreatSSMC'
+include  'ssmc-common', 'ssmc-controller',
+        'ssmc-dao', 'ssmc-entry', 'ssmc-service-impl', 'ssmc-eureka'
 
